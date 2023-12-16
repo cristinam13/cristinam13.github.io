@@ -1,0 +1,27 @@
+th{
+    font-weight: bolder;
+    color:darkmagenta;
+    background-color: deeppink;
+    text-align: center;
+    border: 1px solid palevioletred;
+    padding: 9PX;
+}
+
+td, h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: violet;
+}
+a:link{
+color: blueviolet;
+text-decoration: none;
+}
+a:visited {
+    color: blueviolet;
+}
+a:active {
+    color:blueviolet
+}
+a:hover {
+    color: blueviolet;
+    cursor: pointer;
+}
